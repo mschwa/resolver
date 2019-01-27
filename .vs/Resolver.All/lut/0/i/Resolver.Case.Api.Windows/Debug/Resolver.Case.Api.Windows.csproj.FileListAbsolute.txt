@@ -1,0 +1,6 @@
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Windows\bin\Resolver.Case.Api.Windows.dll.config
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Windows\bin\Resolver.Case.Api.Windows.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Windows\Debug\Resolver.Case.Api.Windows.csprojAssemblyReference.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Windows\Debug\Resolver.Case.Api.Windows.csproj.CoreCompileInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Windows\Debug\Resolver.Case.Api.Windows.csproj.CopyComplete
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Windows\Debug\Resolver.Case.Api.Windows.dll

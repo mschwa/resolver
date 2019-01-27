@@ -1,0 +1,2 @@
+﻿CREATE LOGIN IdentityApp WITH PASSWORD = 'S!?=P6^*7knd';
+GO

@@ -1,0 +1,13 @@
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.deps.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.runtimeconfig.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.runtimeconfig.dev.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.csprojAssemblyReference.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.csproj.CoreCompileInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.RazorAssemblyInfo.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.RazorAssemblyInfo.cs
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.AssemblyInfoInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.AssemblyInfo.cs
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.RazorTargetAssemblyInfo.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.csproj.CopyComplete
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Identity.Api\Feature\netcoreapp2.2\Resolver.Identity.Api.dll

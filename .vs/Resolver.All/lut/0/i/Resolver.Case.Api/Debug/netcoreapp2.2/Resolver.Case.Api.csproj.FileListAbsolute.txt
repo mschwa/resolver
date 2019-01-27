@@ -1,0 +1,5 @@
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api\Debug\netcoreapp2.2\Resolver.Case.Api.csproj.CoreCompileInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api\Debug\netcoreapp2.2\Resolver.Case.Api.RazorAssemblyInfo.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api\Debug\netcoreapp2.2\Resolver.Case.Api.RazorAssemblyInfo.cs
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api\Debug\netcoreapp2.2\Resolver.Case.Api.AssemblyInfoInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api\Debug\netcoreapp2.2\Resolver.Case.Api.AssemblyInfo.cs

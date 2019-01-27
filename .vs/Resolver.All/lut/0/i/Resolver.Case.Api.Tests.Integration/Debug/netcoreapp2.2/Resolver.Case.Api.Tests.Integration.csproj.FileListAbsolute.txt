@@ -1,0 +1,12 @@
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.deps.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.runtimeconfig.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.runtimeconfig.dev.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.AssemblyInfoInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.AssemblyInfo.cs
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.csproj.CopyComplete
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Case.Api.Tests.Integration\Debug\netcoreapp2.2\Resolver.Case.Api.Tests.Integration.dll

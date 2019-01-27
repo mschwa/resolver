@@ -1,0 +1,36 @@
+:host {
+
+    .folded:not(.unfolded) & {
+
+        .nav-link {
+
+            > .nav-link-title,
+            > .nav-link-badge {
+                opacity: 0;
+                transition: opacity 200ms ease;
+            }
+        }
+    }
+
+    .nav-link {
+
+        .collapsable-arrow {
+            transition: transform .3s ease-in-out, opacity .25s ease-in-out .1s;
+            transform: rotate(0);
+        }
+    }
+
+    > .children {
+        overflow: hidden;
+    }
+
+    &.open {
+
+        > .nav-link {
+
+            .collapsable-arrow {
+                transform: rotate(90deg);
+            }
+        }
+    }
+}

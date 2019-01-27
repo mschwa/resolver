@@ -1,0 +1,9 @@
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.deps.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.runtimeconfig.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.runtimeconfig.dev.json
+C:\source\resolver\.vs\Resolver.All\lut\0\b\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.dll
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.csproj.CoreCompileInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.AssemblyInfoInputs.cache
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.AssemblyInfo.cs
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.csproj.CopyComplete
+C:\source\resolver\.vs\Resolver.All\lut\0\i\Resolver.Web\Debug\netcoreapp2.2\Resolver.Web.dll
